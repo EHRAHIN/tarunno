@@ -1,0 +1,49 @@
+.navbar-brand img{
+    width: 45px;
+    border-radius: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nav-item{
+    font-size: 18px;
+    font-weight: 500;
+}
+.nav-item a:hover{
+    color:black;
+}
+.navbar-nav{
+    display: flex;
+    margin: auto;
+    border-radius: 30px;
+    padding: 5px 20px;
+}
+.carousel-item img{
+    height: 700px;
+    width: 1300px;
+}
+.causes_header{
+    text-align: center;
+    margin-top: 3%;
+}
+.causes_header p h1{
+    color: black;
+    font-weight: bolder;
+}
+.causes_header span{
+    color: darkturquoise;
+}
+.card_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.card{
+    margin: 10px;
+}
+.card:hover{
+    box-shadow: 0 2px 5px 0px;
+}
+.card-title a{
+    text-decoration: none;
+}
